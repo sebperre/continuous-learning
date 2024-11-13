@@ -14,6 +14,10 @@
 
 **Date Started:** November 12th
 
+### [Search Engine Optimization (SEO)](https://frontendmasters.com/courses/modern-seo/)
+
+**Date Started:** November 13th
+
 ## Certificates Completed (Newest to Oldest)
 
 ### [Software Developer Success: Soft Skills & Testing](https://frontendmasters.com/courses/dev-soft-skills/)
