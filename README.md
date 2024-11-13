@@ -2,10 +2,6 @@
 
 ## Currently Learning
 
-### [Software Developer Success: Soft Skills & Testing](https://frontendmasters.com/courses/dev-soft-skills/)
-
-**Date Started:** November 7th
-
 ### [Complete Intro to Containers](https://frontendmasters.com/courses/complete-intro-containers-v2/)
 
 **Date Started:** November 9th
@@ -19,6 +15,16 @@
 **Date Started:** November 12th
 
 ## Certificates Completed (Newest to Oldest)
+
+### [Software Developer Success: Soft Skills & Testing](https://frontendmasters.com/courses/dev-soft-skills/)
+
+**What I learned:** I learned about how soft skills can accelerate your career, techniques on how to apply them in your worklife, code refactoring, test driven development, etc.
+
+**Date Started:** November 7th
+
+**Date Completed:** November 13th
+
+<img src="imgs/dev-soft-skills.jpg" width="300" />
 
 ### [JavaScript: From First Steps to Professional](https://frontendmasters.com/courses/javascript-first-steps/)
 
