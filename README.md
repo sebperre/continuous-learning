@@ -6,6 +6,46 @@
 
 ## Certificates Completed (Newest to Oldest)
 
+### [Introduction to Node.js](https://frontendmasters.com/courses/node-js-v3/)
+
+**What I learned:** Learned how to use Javascript with the node environment, installing packages with npm, using yargs, using fs, unit testing with Jest, setting up a server, etc.
+
+**Date Started:** November 9th, 2024
+
+**Date Completed:** November 12th, 2024
+
+<img src="imgs/node-js-v3.jpg" width="300" />
+
+### [Complete Intro to Web Development](https://frontendmasters.com/courses/web-development-v3/)
+
+**What I learned:** Learned how to use Javascript with the DOM, refresh on HTML, refresh on CSS, learned how to communicate with APIs, etc.
+
+**Date Started:** November 3rd, 2024
+
+**Date Completed:** November 11th, 2024
+
+<img src="imgs/web-development-v3.jpg" width="300" />
+
+### [Getting Started with JavaScript](https://frontendmasters.com/courses/getting-started-javascript-v2/)
+
+**What I learned:** Great refresh of JavaScript, coercion, scope, closure, prototypes, etc.
+
+**Date Started:** November 5th, 2024
+
+**Date Completed:** November 11th, 2024
+
+<img src="imgs/getting-started-javascript-v2.jpg" width="300" />
+
+### [Vim Fundamentals](https://frontendmasters.com/courses/vim-fundamentals/)
+
+**What I learned:** Learned how to use the VIM text editor, buffers, remaps, bunch of shortcuts, plugins, themes, etc.
+
+**Date Started:** November 1st, 2024
+
+**Date Completed:** November 4th, 2024
+
+<img src="imgs/vim-fundamentals.jpg" width="300" />
+
 ### [Complete Intro to Linux and the Command Line](https://frontendmasters.com/courses/linux-command-line/)
 
 **What I learned:** Learned more on how to use the Bash, commands, pipes, environments, processes, SFTP, SSH, curl, package manager, bash scripting, cron, etc.
