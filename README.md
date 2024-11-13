@@ -6,10 +6,6 @@
 
 **Date Started:** November 7th
 
-### [JavaScript: From First Steps to Professional](https://frontendmasters.com/courses/javascript-first-steps/)
-
-**Date Started:** November 8th
-
 ### [Complete Intro to Containers](https://frontendmasters.com/courses/complete-intro-containers-v2/)
 
 **Date Started:** November 9th
@@ -23,6 +19,16 @@
 **Date Started:** November 12th
 
 ## Certificates Completed (Newest to Oldest)
+
+### [JavaScript: From First Steps to Professional](https://frontendmasters.com/courses/javascript-first-steps/)
+
+**What I learned:** Great refresher on javascript basics, how to call an API, modules, etc.
+
+**Date Started:** November 8th
+
+**Date Completed:** November 13th
+
+<img src="imgs/javascript-first-steps.jpg" width="300" />
 
 ### [Getting a Software Enginnering Job](https://frontendmasters.com/courses/getting-a-job-v3/)
 
