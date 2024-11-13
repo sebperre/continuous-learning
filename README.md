@@ -2,7 +2,25 @@
 
 ## Currently Learning
 
-### 
+### [Software Developer Success: Soft Skills & Testing](https://frontendmasters.com/courses/dev-soft-skills/)
+
+**Date Started:** November 7th
+
+### [JavaScript: From First Steps to Professional](https://frontendmasters.com/courses/javascript-first-steps/)
+
+**Date Started:** November 8th
+
+### [Complete Intro to Containers](https://frontendmasters.com/courses/complete-intro-containers-v2/)
+
+**Date Started:** November 9th
+
+### [Getting a Software Enginnering Job](https://frontendmasters.com/courses/getting-a-job-v3/)
+
+**Date Started:** November 10th
+
+### [Complete Intro to Databases](https://frontendmasters.com/courses/databases/)
+
+**Date Started:** November 12th
 
 ## Certificates Completed (Newest to Oldest)
 
