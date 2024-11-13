@@ -14,15 +14,25 @@
 
 **Date Started:** November 9th
 
-### [Getting a Software Enginnering Job](https://frontendmasters.com/courses/getting-a-job-v3/)
-
-**Date Started:** November 10th
-
 ### [Complete Intro to Databases](https://frontendmasters.com/courses/databases/)
 
 **Date Started:** November 12th
 
+### [Introduction To Dev Tools](https://frontendmasters.com/courses/dev-tools/)
+
+**Date Started:** November 12th
+
 ## Certificates Completed (Newest to Oldest)
+
+### [Getting a Software Enginnering Job](https://frontendmasters.com/courses/getting-a-job-v3/)
+
+**What I learned:"** Learned about the tech market and how to optimize my github, linkedin, networking abilities, website, etc.
+
+**Date Started:** November 10th
+
+**Date Completed:** November 13th
+
+<img src="imgs/getting-a-job-v3.jpg" width="300" />
 
 ### [Introduction to Node.js](https://frontendmasters.com/courses/node-js-v3/)
 
