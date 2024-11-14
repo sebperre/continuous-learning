@@ -18,6 +18,10 @@
 
 **Date Started:** November 13th
 
+### [JavaScript: The Hard Parts](https://frontendmasters.com/courses/javascript-hard-parts-v2/)
+
+**Date Started:** November 13th
+
 ## Certificates Completed (Newest to Oldest)
 
 ### [Software Developer Success: Soft Skills & Testing](https://frontendmasters.com/courses/dev-soft-skills/)
