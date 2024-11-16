@@ -18,7 +18,7 @@
 
 **Date Started:** November 13th
 
-### [JavaScript: The Hard Parts](https://frontendmasters.com/courses/javascript-hard-parts-v2/) (On Challenge 6 for http://csbin.io/callbacks)
+### [JavaScript: The Hard Parts](https://frontendmasters.com/courses/javascript-hard-parts-v2/)
 
 **Date Started:** November 13th
 
