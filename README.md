@@ -18,11 +18,17 @@
 
 **Date Started:** November 13th
 
-### [JavaScript: The Hard Parts](https://frontendmasters.com/courses/javascript-hard-parts-v2/) (on OOP)
+## Certificates Completed (Newest to Oldest)
+
+### [JavaScript: The Hard Parts](https://frontendmasters.com/courses/javascript-hard-parts-v2/)
+
+**What I learned:** I learned about higher order functions, closure, how asynchronous javascript works (promises, event loop, etc.), how class and OOP works, etc.
 
 **Date Started:** November 13th
 
-## Certificates Completed (Newest to Oldest)
+**Date Completed:** November 17th
+
+<img src="imgs/javascript-hard-parts.jpg" width="300" />
 
 ### [Software Developer Success: Soft Skills & Testing](https://frontendmasters.com/courses/dev-soft-skills/)
 
