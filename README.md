@@ -18,7 +18,7 @@
 
 **Date Started:** November 13th
 
-### [JavaScript: The Hard Parts](https://frontendmasters.com/courses/javascript-hard-parts-v2/)
+### [JavaScript: The Hard Parts](https://frontendmasters.com/courses/javascript-hard-parts-v2/) (on OOP)
 
 **Date Started:** November 13th
 
