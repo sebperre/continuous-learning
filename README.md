@@ -2,10 +2,6 @@
 
 ## Currently Learning
 
-### [Complete Intro to Containers](https://frontendmasters.com/courses/complete-intro-containers-v2/)
-
-**Date Started:** November 9th
-
 ### [Complete Intro to Databases](https://frontendmasters.com/courses/databases/)
 
 **Date Started:** November 12th
@@ -19,6 +15,16 @@
 **Date Started:** November 13th
 
 ## Certificates Completed (Newest to Oldest)
+
+### [Complete Intro to Containers](https://frontendmasters.com/courses/complete-intro-containers-v2/)
+
+**What I learned:** I learned what a container is made up of, how to create one by hand, docker, docker compose, kubernetes, and Kompose.
+
+**Date Started:** November 9th
+
+**Date Completed:** November 18th
+
+<img src="imgs/complete-intro-containers-v2.jpg" width="300" />
 
 ### [JavaScript: The Hard Parts](https://frontendmasters.com/courses/javascript-hard-parts-v2/)
 
