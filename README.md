@@ -18,6 +18,10 @@
 
 **Date Started:** November 19th
 
+### [AWS for Frontend Engineers](https://frontendmasters.com/courses/aws-v2/)
+
+**Date Started:** November 20th
+
 ## Certificates Completed (Newest to Oldest)
 
 ### [Complete Intro to Containers](https://frontendmasters.com/courses/complete-intro-containers-v2/)
