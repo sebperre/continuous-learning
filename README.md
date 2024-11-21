@@ -14,7 +14,7 @@
 
 **Date Started:** November 13th
 
-### [Deep JavaScript](https://frontendmasters.com/courses/deep-javascript-v3/)
+### [Deep JavaScript Foundations](https://frontendmasters.com/courses/deep-javascript-v3/)
 
 **Date Started:** November 19th
 
