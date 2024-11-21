@@ -14,6 +14,10 @@
 
 **Date Started:** November 13th
 
+## [Deep JavaScript](https://frontendmasters.com/courses/deep-javascript-v3/)
+
+**Date Started:** November 19th
+
 ## Certificates Completed (Newest to Oldest)
 
 ### [Complete Intro to Containers](https://frontendmasters.com/courses/complete-intro-containers-v2/)
