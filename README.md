@@ -6,9 +6,9 @@
 
 **Date Started:** November 12th
 
-### [Introduction To Dev Tools](https://frontendmasters.com/courses/dev-tools/)
+### [Search Engine Optimization (SEO)](https://frontendmasters.com/courses/modern-seo/)
 
-**Date Started:** November 12th
+**Date Started:** November 13th
 
 ### [Deep JavaScript Foundations](https://frontendmasters.com/courses/deep-javascript-v3/)
 
@@ -20,11 +20,11 @@
 
 ## Certificates Completed (Newest to Oldest)
 
-### [Search Engine Optimization (SEO)](https://frontendmasters.com/courses/modern-seo/)
+### [Introduction To Dev Tools](https://frontendmasters.com/courses/dev-tools/)
 
 **What I learned:** I learned how to use the dev tools such as quick edits, workspaces, network tab, performance tab, lighthouse.
 
-**Date Started:** November 13th
+**Date Started:** November 12th
 
 **Date Completed:** November 24th
 
