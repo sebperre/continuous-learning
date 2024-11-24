@@ -28,6 +28,8 @@
 
 **Date Completed:** November 24th
 
+<img src="imgs/dev-tools.jpg" width="300" />
+
 ### [Complete Intro to Containers](https://frontendmasters.com/courses/complete-intro-containers-v2/)
 
 **What I learned:** I learned what a container is made up of, how to create one by hand, docker, docker compose, kubernetes, and Kompose.
