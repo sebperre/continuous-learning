@@ -6,10 +6,6 @@
 
 **Date Started:** November 12th
 
-### [Search Engine Optimization (SEO)](https://frontendmasters.com/courses/modern-seo/)
-
-**Date Started:** November 13th
-
 ### [Deep JavaScript Foundations](https://frontendmasters.com/courses/deep-javascript-v3/)
 
 **Date Started:** November 19th
@@ -19,6 +15,16 @@
 **Date Started:** November 20th
 
 ## Certificates Completed (Newest to Oldest)
+
+### [Search Engine Optimization (SEO)](https://frontendmasters.com/courses/modern-seo/)
+
+**What I learned:** I leared all about SEO, how to optimize a website, use meta tags, how to implement social metadata, and AMP.
+
+**Date Started:** November 13th
+
+**Date Completed:** November 24th
+
+<img src="imgs/modern-seo.jpg" width="300" />
 
 ### [Introduction To Dev Tools](https://frontendmasters.com/courses/dev-tools/)
 
