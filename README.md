@@ -10,10 +10,6 @@
 
 **Date Started:** November 19th
 
-### [AWS for Frontend Engineers](https://frontendmasters.com/courses/aws-v2/)
-
-**Date Started:** November 20th
-
 ### [Introduction to Next.js](https://frontendmasters.com/courses/next-js-v3/)
 
 **Date Started:** November 25th
@@ -23,6 +19,16 @@
 **Date Started:** November 25th
 
 ## Certificates Completed (Newest to Oldest)
+
+### [AWS for Frontend Engineers](https://frontendmasters.com/courses/aws-v2/)
+
+**What I learned:** I learned how to use AWS, IAM, S3, Cloudfront, and Lambda.
+
+**Date Started:** November 20th
+
+**Date Completed:** November 26th
+
+<img src="imgs/aws-v2.jpg" width="300" />
 
 ### [Search Engine Optimization (SEO)](https://frontendmasters.com/courses/modern-seo/)
 
