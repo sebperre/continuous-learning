@@ -18,6 +18,10 @@
 
 **Date Started:** November 25th
 
+### [TypeScript Fundamentals](https://frontendmasters.com/courses/typescript-v4/)
+
+**Date Started:** November 25th
+
 ## Certificates Completed (Newest to Oldest)
 
 ### [Search Engine Optimization (SEO)](https://frontendmasters.com/courses/modern-seo/)
