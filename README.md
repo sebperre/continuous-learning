@@ -14,6 +14,10 @@
 
 **Date Started:** November 20th
 
+### [Introduction to Next.js](https://frontendmasters.com/courses/next-js-v3/)
+
+**Date Started:** November 25th
+
 ## Certificates Completed (Newest to Oldest)
 
 ### [Search Engine Optimization (SEO)](https://frontendmasters.com/courses/modern-seo/)
