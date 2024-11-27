@@ -18,6 +18,10 @@
 
 **Date Started:** November 25th
 
+### [Introducing DevOps for Developers](https://frontendmasters.com/courses/devops/)
+
+**Date Started:** November 26th
+
 ## Certificates Completed (Newest to Oldest)
 
 ### [AWS for Frontend Engineers](https://frontendmasters.com/courses/aws-v2/)
