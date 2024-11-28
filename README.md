@@ -10,10 +10,6 @@
 
 **Date Started:** November 19th
 
-### [Introduction to Next.js](https://frontendmasters.com/courses/next-js-v3/)
-
-**Date Started:** November 25th
-
 ### [TypeScript Fundamentals](https://frontendmasters.com/courses/typescript-v4/)
 
 **Date Started:** November 25th
@@ -23,6 +19,16 @@
 **Date Started:** November 26th
 
 ## Certificates Completed (Newest to Oldest)
+
+### [Introduction to Next.js](https://frontendmasters.com/courses/next-js-v3/)
+
+**What I learned:** I learned how to create a next app, server components, client components, Prisma, server actions, api routes, middleware, and deploying to vercel.
+
+**Date Started:** November 25th
+
+**Date Ended:** November 28th
+
+<img src="imgs/next-js-v3.jpg" width="300" />
 
 ### [AWS for Frontend Engineers](https://frontendmasters.com/courses/aws-v2/)
 
