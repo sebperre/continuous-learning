@@ -20,6 +20,16 @@
 
 ## Certificates Completed (Newest to Oldest)
 
+### [Interviewing for Frontend Engineers](https://frontendmasters.com/courses/interviewing-frontend/)
+
+**What I learned:** I learned how interview generally go for developer job, practiced questions for the prescreen, code test, phone screen and on-site interivew.
+
+**Date Started:** November 28th
+
+**Date Ended:** November 29th
+
+<img src="imgs/interviewing-frontend.jpg" width="300" >
+
 ### [Introduction to Next.js](https://frontendmasters.com/courses/next-js-v3/)
 
 **What I learned:** I learned how to create a next app, server components, client components, Prisma, server actions, api routes, middleware, and deploying to vercel.
