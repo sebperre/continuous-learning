@@ -20,6 +20,16 @@
 
 ## Certificates Completed (Newest to Oldest)
 
+### [Mastering the Design Process](https://frontendmasters.com/courses/design-process/)
+
+**What I learned:** I learned about design principles, how to give presentations about designs, how to ask good queastions, wireframing, high fidelity mockups.
+
+**Date Started:** December 1st
+
+**Date Ended:** December 4th
+
+<img src="imgs/design-process-dark.jpg" width="300" >
+
 ### [Interviewing for Frontend Engineers](https://frontendmasters.com/courses/interviewing-frontend/)
 
 **What I learned:** I learned how interview generally go for developer job, practiced questions for the prescreen, code test, phone screen and on-site interivew.
