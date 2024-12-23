@@ -20,6 +20,16 @@
 
 ## Certificates Completed (Newest to Oldest)
 
+### [Web UX Design for High Converting Websites](https://frontendmasters.com/courses/ux-design-principles/)
+
+**What I learned:** I learned about dark patterns, reducing cognitive load, creating a value proposition, optimizing for conversion and user testing, etc.
+
+**Date Started:** December 16th
+
+**Date Ended:** December 22nd
+
+<img src="imgs/ux-design-principles.jpg" width="300" >
+
 ### [Mastering the Design Process](https://frontendmasters.com/courses/design-process/)
 
 **What I learned:** I learned about design principles, how to give presentations about designs, how to ask good queastions, wireframing, high fidelity mockups.
