@@ -18,6 +18,10 @@
 
 **Date Started:** November 26th
 
+### [Competitive Programmer’s Handbook](https://cses.fi/book/book.pdf)
+
+**Date Started:** January 10th
+
 ## Certificates Completed (Newest to Oldest)
 
 ### [Web UX Design for High Converting Websites](https://frontendmasters.com/courses/ux-design-principles/)
