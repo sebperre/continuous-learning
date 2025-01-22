@@ -22,6 +22,10 @@
 
 **Date Started:** January 10th
 
+### [SQL Beginner to Advance](https://www.youtube.com/watch?v=OT1RErkfLNQ&ab_channel=AlexTheAnalyst)
+
+**Date Started:** January 22nd
+
 ## Certificates Completed (Newest to Oldest)
 
 ### [Web UX Design for High Converting Websites](https://frontendmasters.com/courses/ux-design-principles/)
