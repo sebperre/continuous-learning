@@ -28,13 +28,23 @@
 
 ## Certificates Completed (Newest to Oldest)
 
+### [Introduction to R](https://app.datacamp.com/learn/courses/free-introduction-to-r)
+
+**What I learned:** A great refresher on R. Went through basic R operations, vectors, matrices, factors, data frames, and lists
+
+**Date Started:** January 23rd, 2025
+
+**Date Ended:** January 23rd, 2025
+
+<img src="imgs/intro_to_r.jpg" width="300" >
+
 ### [Web UX Design for High Converting Websites](https://frontendmasters.com/courses/ux-design-principles/)
 
 **What I learned:** I learned about dark patterns, reducing cognitive load, creating a value proposition, optimizing for conversion and user testing, etc.
 
-**Date Started:** December 16th
+**Date Started:** December 16th, 2024
 
-**Date Ended:** December 22nd
+**Date Ended:** December 22nd, 2024
 
 <img src="imgs/ux-design-principles.jpg" width="300" >
 
@@ -42,9 +52,9 @@
 
 **What I learned:** I learned about design principles, how to give presentations about designs, how to ask good queastions, wireframing, high fidelity mockups.
 
-**Date Started:** December 1st
+**Date Started:** December 1st, 2024
 
-**Date Ended:** December 4th
+**Date Ended:** December 4th, 2024
 
 <img src="imgs/design-process-dark.jpg" width="300" >
 
@@ -52,9 +62,9 @@
 
 **What I learned:** I learned how interview generally go for developer job, practiced questions for the prescreen, code test, phone screen and on-site interivew.
 
-**Date Started:** November 28th
+**Date Started:** November 28th, 2024
 
-**Date Ended:** November 29th
+**Date Ended:** November 29th, 2024
 
 <img src="imgs/interviewing-frontend.jpg" width="300" >
 
@@ -62,9 +72,9 @@
 
 **What I learned:** I learned how to create a next app, server components, client components, Prisma, server actions, api routes, middleware, and deploying to vercel.
 
-**Date Started:** November 25th
+**Date Started:** November 25th, 2024
 
-**Date Ended:** November 28th
+**Date Ended:** November 28th, 2024
 
 <img src="imgs/next-js-v3.jpg" width="300" />
 
@@ -72,9 +82,9 @@
 
 **What I learned:** I learned how to use AWS, IAM, S3, Cloudfront, and Lambda.
 
-**Date Started:** November 20th
+**Date Started:** November 20th, 2024
 
-**Date Completed:** November 26th
+**Date Completed:** November 26th, 2024
 
 <img src="imgs/aws-v2.jpg" width="300" />
 
@@ -82,9 +92,9 @@
 
 **What I learned:** I leared all about SEO, how to optimize a website, use meta tags, how to implement social metadata, and AMP.
 
-**Date Started:** November 13th
+**Date Started:** November 13th, 2024
 
-**Date Completed:** November 24th
+**Date Completed:** November 24th, 2024
 
 <img src="imgs/modern-seo.jpg" width="300" />
 
@@ -92,9 +102,9 @@
 
 **What I learned:** I learned how to use the dev tools such as quick edits, workspaces, network tab, performance tab, lighthouse.
 
-**Date Started:** November 12th
+**Date Started:** November 12th, 2024
 
-**Date Completed:** November 24th
+**Date Completed:** November 24th, 2024
 
 <img src="imgs/dev-tools.jpg" width="300" />
 
@@ -102,9 +112,9 @@
 
 **What I learned:** I learned what a container is made up of, how to create one by hand, docker, docker compose, kubernetes, and Kompose.
 
-**Date Started:** November 9th
+**Date Started:** November 9th, 2024
 
-**Date Completed:** November 18th
+**Date Completed:** November 18th, 2024
 
 <img src="imgs/complete-intro-containers-v2.jpg" width="300" />
 
@@ -112,9 +122,9 @@
 
 **What I learned:** I learned about higher order functions, closure, how asynchronous javascript works (promises, event loop, etc.), how class and OOP works, etc.
 
-**Date Started:** November 13th
+**Date Started:** November 13th, 2024
 
-**Date Completed:** November 17th
+**Date Completed:** November 17th, 2024
 
 <img src="imgs/javascript-hard-parts.jpg" width="300" />
 
@@ -122,9 +132,9 @@
 
 **What I learned:** I learned about how soft skills can accelerate your career, techniques on how to apply them in your worklife, code refactoring, test driven development, etc.
 
-**Date Started:** November 7th
+**Date Started:** November 7th, 2024
 
-**Date Completed:** November 13th
+**Date Completed:** November 13th, 2024
 
 <img src="imgs/dev-soft-skills.jpg" width="300" />
 
@@ -132,9 +142,9 @@
 
 **What I learned:** Great refresher on javascript basics, how to call an API, modules, etc.
 
-**Date Started:** November 8th
+**Date Started:** November 8th, 2024
 
-**Date Completed:** November 13th
+**Date Completed:** November 13th, 2024
 
 <img src="imgs/javascript-first-steps.jpg" width="300" />
 
@@ -142,9 +152,9 @@
 
 **What I learned:"** Learned about the tech market and how to optimize my github, linkedin, networking abilities, website, etc.
 
-**Date Started:** November 10th
+**Date Started:** November 10th, 2024
 
-**Date Completed:** November 13th
+**Date Completed:** November 13th, 2024
 
 <img src="imgs/getting-a-job-v3.jpg" width="300" />
 
