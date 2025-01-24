@@ -26,7 +26,17 @@
 
 **Date Started:** January 22nd
 
-## Certificates Completed (Newest to Oldest)
+## Books, Certificates, and Courses Completed (Newest to Oldest)
+
+### [Introduction to SQL](https://app.datacamp.com/learn/courses/introduction-to-sql)
+
+**What I learned:** Learned what SQL is, did various queries, used views and understood differences between SQL Server and PostgreSQL.
+
+**Date Started:** January 24th
+
+**Date Completed:** January 24th
+
+<img src="imgs/intro-to-sql.jpg" width="300">
 
 ### [Introduction to R](https://app.datacamp.com/learn/courses/free-introduction-to-r)
 
