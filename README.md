@@ -22,11 +22,17 @@
 
 **Date Started:** January 10th
 
-### [SQL Beginner to Advance](https://www.youtube.com/watch?v=OT1RErkfLNQ&ab_channel=AlexTheAnalyst)
-
-**Date Started:** January 22nd
-
 ## Books, Certificates, and Courses Completed (Newest to Oldest)
+
+### [Introduction to Apache Kafka](https://app.datacamp.com/learn/courses/introduction-to-apache-kafka)
+
+**What I learned:** Learned about the basic of Kafka and Zookeeper, how to setup and run Kafka and Zookeeper, topics, consumers, producers, partitions, replication, deleting a topic and troubleshooting.
+
+**Date Started:** January 25th
+
+**Date Ended:** January 26th
+
+<img src="imgs/apache-kafka.jpg" width="300">
 
 ### [Introduction to SQL](https://app.datacamp.com/learn/courses/introduction-to-sql)
 
