@@ -24,6 +24,16 @@
 
 ## Books, Certificates, and Courses Completed (Newest to Oldest)
 
+### [Introduction to Power BI](https://app.datacamp.com/learn/courses/introduction-to-power-bi)
+
+**What I learned:** Learned about different visualizations, importing data, formatting data, power query, and filtering.
+
+**Date Started:** January 31st
+
+**Date Ended:** Febuary 1st
+
+<img src="imgs/intro-to-power-bi.jpg" width="300">
+
 ### [Introduction to Apache Kafka](https://app.datacamp.com/learn/courses/introduction-to-apache-kafka)
 
 **What I learned:** Learned about the basic of Kafka and Zookeeper, how to setup and run Kafka and Zookeeper, topics, consumers, producers, partitions, replication, deleting a topic and troubleshooting.
