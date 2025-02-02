@@ -24,6 +24,16 @@
 
 ## Books, Certificates, and Courses Completed (Newest to Oldest)
 
+### [Introduction to DAX in Power BI](https://app.datacamp.com/learn/courses/introduction-to-dax-in-power-bi)
+
+**What I learned:** Learned about DAX commands, columns, measures, variables, context in DAX, iterators, and working with dates.
+
+**Date Started:** Feburary 1st
+
+**Date Ended:** Feburary 1st
+
+<img src="imgs/intro-to-dax-in-power-bi.jpg" width="300">
+
 ### [Introduction to Power BI](https://app.datacamp.com/learn/courses/introduction-to-power-bi)
 
 **What I learned:** Learned about different visualizations, importing data, formatting data, power query, and filtering.
