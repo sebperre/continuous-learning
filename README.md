@@ -2,7 +2,7 @@
 
 ## Currently Learning
 
-### [Complete Intro to Databases](https://frontendmasters.com/courses/databases/)
+<!-- ### [Complete Intro to Databases](https://frontendmasters.com/courses/databases/)
 
 **Date Started:** November 12th
 
@@ -16,7 +16,7 @@
 
 ### [Introducing DevOps for Developers](https://frontendmasters.com/courses/devops/)
 
-**Date Started:** November 26th
+**Date Started:** November 26th -->
 
 ### [Competitive Programmer’s Handbook](https://cses.fi/book/book.pdf)
 
