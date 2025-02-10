@@ -18,6 +18,12 @@
 
 **Date Started:** November 26th -->
 
+### [Low Poly Character Modeling](https://www.youtube.com/watch?v=PTWV67qUX2k&ab_channel=Imphenzia)
+
+**Date Started: Feburary 10th**
+
+**On: 40:27**
+
 ### [Competitive Programmer’s Handbook](https://cses.fi/book/book.pdf)
 
 **Date Started:** January 10th
