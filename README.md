@@ -2,33 +2,19 @@
 
 ## Currently Learning
 
-<!-- ### [Complete Intro to Databases](https://frontendmasters.com/courses/databases/)
-
-**Date Started:** November 12th
-
-### [Deep JavaScript Foundations](https://frontendmasters.com/courses/deep-javascript-v3/)
-
-**Date Started:** November 19th
-
-### [TypeScript Fundamentals](https://frontendmasters.com/courses/typescript-v4/)
-
-**Date Started:** November 25th
-
-### [Introducing DevOps for Developers](https://frontendmasters.com/courses/devops/)
-
-**Date Started:** November 26th -->
-
-### [Low Poly Character Modeling](https://www.youtube.com/watch?v=PTWV67qUX2k&ab_channel=Imphenzia)
-
-**Date Started: Feburary 10th**
-
-**On: 40:27**
-
 ### [Competitive Programmer’s Handbook](https://cses.fi/book/book.pdf)
 
 **Date Started:** January 10th
 
 ## Books, Certificates, and Courses Completed (Newest to Oldest)
+
+### [Low Poly Character Modeling](https://www.youtube.com/watch?v=PTWV67qUX2k&ab_channel=Imphenzia)
+
+**What I learned:** How to create low poly characters, texture them with UV maps, rig them and animate them.
+
+**Date Started: Feburary 10th**
+
+**Date Ended: Feburary 14th**
 
 ### [Introduction to DAX in Power BI](https://app.datacamp.com/learn/courses/introduction-to-dax-in-power-bi)
 
