@@ -6,7 +6,7 @@
 
 **Date Started:** Feburary 18th
 
-**Progress:** On Chapter 4
+**Progress:** On Chapter 4 (Page 107)
 
 ### [Competitive Programmer’s Handbook](https://cses.fi/book/book.pdf)
 
