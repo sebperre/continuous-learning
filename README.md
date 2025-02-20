@@ -12,6 +12,8 @@
 
 **Date Started:** January 10th
 
+**Date Started:** Page 112
+
 ## Books, Certificates, and Courses Completed (Newest to Oldest)
 
 ### [Low Poly Character Modeling](https://www.youtube.com/watch?v=PTWV67qUX2k&ab_channel=Imphenzia)
