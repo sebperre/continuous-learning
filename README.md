@@ -12,7 +12,7 @@
 
 **Date Started:** January 10th
 
-**Date Started:** Page 112
+**Date Started:** Page 115
 
 ## Books, Certificates, and Courses Completed (Newest to Oldest)
 
