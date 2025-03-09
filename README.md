@@ -2,6 +2,12 @@
 
 ## Currently Learning
 
+### [Learn MongoDB in 1 Hour](https://www.youtube.com/watch?v=c2M-rlkkT5o&ab_channel=BroCode)
+
+**Date Started:** March 9th
+
+**Progress:** 20:34
+
 ### [Learn PyTorch for deep learning in a day. Literally.](https://www.youtube.com/watch?v=Z_ikDlimN6A&t=76s&ab_channel=DanielBourke)
 
 **Date Started:** March 5th
