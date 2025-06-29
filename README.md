@@ -2,29 +2,11 @@
 
 ## Currently Learning
 
-### [Learn MongoDB in 1 Hour](https://www.youtube.com/watch?v=c2M-rlkkT5o&ab_channel=BroCode)
-
-**Date Started:** March 9th
-
-**Progress:** 20:34
-
-### [Learn PyTorch for deep learning in a day. Literally.](https://www.youtube.com/watch?v=Z_ikDlimN6A&t=76s&ab_channel=DanielBourke)
-
-**Date Started:** March 5th
-
-**Progress:** 10:20:22
-
 ### [Learning Go: An Idiomatic Approach to Real-World Go Programming](https://www.amazon.ca/Learning-Go-Idiomatic-Real-World-Programming/dp/1098139291/ref=pd_lpo_d_sccl_1/132-4621172-6024108?pd_rd_w=Yqb3L&content-id=amzn1.sym.d3f44101-6e04-446e-916c-a6ec5616982b&pf_rd_p=d3f44101-6e04-446e-916c-a6ec5616982b&pf_rd_r=B74ZW8ME5F4BEDWV8Y8W&pd_rd_wg=zdLla&pd_rd_r=ca68733c-4d4f-4b49-9cd0-58007570a010&pd_rd_i=1098139291&psc=1)
 
-**Date Started:** Feburary 18th
+**Date Started:** June 28th
 
-**Progress:** On Chapter 4 (Page 107)
-
-### [Competitive Programmer’s Handbook](https://cses.fi/book/book.pdf)
-
-**Date Started:** January 10th
-
-**Date Started:** Page 115
+**Progress:** On Chapter 3 (Page 61)
 
 ## Books, Certificates, and Courses Completed (Newest to Oldest)
 
