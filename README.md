@@ -6,7 +6,7 @@
 
 **Date Started:** June 28th
 
-**Progress:** On Chapter 3 (Page 61)
+**Progress:** On Chapter 3 (Page 83)
 
 ## Books, Certificates, and Courses Completed (Newest to Oldest)
 
