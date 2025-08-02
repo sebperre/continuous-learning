@@ -6,7 +6,7 @@
 
 **Date Started:** July 30th
 
-**Progress:** On 29:22
+**Progress:** On 29:22 (40:00)
 
 ### [Learning Go: An Idiomatic Approach to Real-World Go Programming](https://www.amazon.ca/Learning-Go-Idiomatic-Real-World-Programming/dp/1098139291/ref=pd_lpo_d_sccl_1/132-4621172-6024108?pd_rd_w=Yqb3L&content-id=amzn1.sym.d3f44101-6e04-446e-916c-a6ec5616982b&pf_rd_p=d3f44101-6e04-446e-916c-a6ec5616982b&pf_rd_r=B74ZW8ME5F4BEDWV8Y8W&pd_rd_wg=zdLla&pd_rd_r=ca68733c-4d4f-4b49-9cd0-58007570a010&pd_rd_i=1098139291&psc=1)
 
