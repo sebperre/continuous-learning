@@ -2,6 +2,12 @@
 
 ## Currently Learning
 
+## [Microsoft Azure Fundamentals](https://www.youtube.com/watch?v=5abffC-K40c&t=7617s)
+
+**Date Started:** August 7th
+
+**Progress:** On 1:40:23
+
 ### [Complete Kubernetes Course - From BEGINNER to PRO](https://www.youtube.com/watch?v=2T86xAtR6Fo)
 
 **Date Started:** July 30th
