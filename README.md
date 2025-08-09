@@ -6,7 +6,7 @@
 
 **Date Started:** August 7th
 
-**Progress:** On 1:40:23
+**Progress:** On 2:04:35
 
 ### [Complete Kubernetes Course - From BEGINNER to PRO](https://www.youtube.com/watch?v=2T86xAtR6Fo)
 
