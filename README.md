@@ -22,6 +22,14 @@
 
 ## Books, Certificates, and Courses Completed (Newest to Oldest)
 
+### [Github Actions Parts 1 and 2](https://www.youtube.com/watch?v=TKj0KyX8m8o)
+
+**What I learned:** How to use Github actions.
+
+**Date Started: September 6th**
+
+**Date Ended: September 6th**
+
 ### [Low Poly Character Modeling](https://www.youtube.com/watch?v=PTWV67qUX2k&ab_channel=Imphenzia)
 
 **What I learned:** How to create low poly characters, texture them with UV maps, rig them and animate them.
